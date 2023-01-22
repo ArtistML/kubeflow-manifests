@@ -2,3 +2,7 @@
        path = website/themes/docsy
        url = https://github.com/google/docsy
 
+[submodule "upstream"]
+	path = upstream
+	url = git@github.com:ArtistML/manifests.git
+	branch = v1.6.0
